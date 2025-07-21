@@ -1,5 +1,5 @@
 Imports System '* говорят по хорошему лучше его юзать
-'Imports System.Console '* вроде тоже доступно с .NET 6
+'Imports System.Console '* вроде тоже доступно с .NET 6 (core)
 
 Module Program
     Sub Lulz(Optional i As String = "")
